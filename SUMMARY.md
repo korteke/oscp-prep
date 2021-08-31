@@ -3,6 +3,7 @@
 * [OSCP preparation guide](README.md)
 * [About the OSCP Exam](about-the-oscp-exam.md)
 * [Getting Comfortable with Kali Linux](getting-comfortable-with-kali-linux.md)
+* [Links / Resources](links-resources.md)
 * [Command Line Fun](command-line-fun.md)
 * [Practical Tools](practical-tools.md)
 * [Bash scripting](bash-scripting.md)
