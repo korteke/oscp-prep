@@ -17,7 +17,7 @@
 3. JMP – The Jump \(JMP\) is an instruction that modifies the flow of execution where the operand you designate will contain the address being jumped to.
 4. \x41, \x42, \x43 - The hexadecimal values for A, B and C. For this exercise, there is no benefit to using hex vs ascii, it's just my personal preference.
 
-**Really good introduction**
+**Really good introduction to buffer overflows**
 
 {% embed url="https://github.com/gh0x0st/Buffer\_Overflow" %}
 
