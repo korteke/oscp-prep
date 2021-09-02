@@ -2,11 +2,13 @@
 
 ## Random links and resources 
 
-TJnull’s excellent guide prep guide
+### Prep guides
+
+#### TJnull’s excellent guide prep guide
 
 {% embed url="https://www.netsecfocus.com/oscp/2021/05/06/The\_Journey\_to\_Try\_Harder-\_TJnull-s\_Preparation\_Guide\_for\_PEN-200\_PWK\_OSCP\_2.0.html" %}
 
-Rowbot / OffSecNewbie prep guide
+#### Rowbot / OffSecNewbie prep guide
 
 {% embed url="https://guide.offsecnewbie.com/general-methodology" %}
 
